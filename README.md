@@ -1,7 +1,16 @@
-
-*List of my personal projects
+# List of my personal projects
 
 * Website for travel chatbot app : https://www.itnry.com
 
-* Auto resizing Media Gallery :   
+* E-commerce website for leather goods: https://italiancatalyst.com/
+
+* Auto resizing Media Gallery : https://codepen.io/angiebadillo/pen/aamBxO
+
 * Microservice architecture graph using D3Js : https://codepen.io/angiebadillo/pen/LjoJqE# . 
+
+* Website for pet owners: https://github.com/angieBadillo/PuppyPie
+
+* Real Estate website: https://github.com/angieBadillo/princeton-realestate
+
+* Diverse Projects built in Javascript with HTML, CSS, PHP: https://github.com/angieBadillo/college-projects
+
