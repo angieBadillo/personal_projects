@@ -1,5 +1,9 @@
 # List of my personal projects
 
+* Lightweight responsive navBar with slide animation: https://codepen.io/angiebadillo/pen/vPJJbG
+
+* Mouse tracking with Angular Material: https://angular-jtv8my.stackblitz.io/
+
 * Website for travel chatbot app : https://www.itnry.com
 
 * E-commerce website for leather goods: https://italiancatalyst.com/
@@ -13,4 +17,6 @@
 * Real Estate website: https://github.com/angieBadillo/princeton-realestate
 
 * Diverse Projects built in Javascript with HTML, CSS, PHP: https://github.com/angieBadillo/college-projects
+
+
 
