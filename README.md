@@ -2,6 +2,8 @@
 
 * Lightweight responsive navBar with slide animation: https://codepen.io/angiebadillo/pen/vPJJbG
 
+* Stories design and dashboards using React and bootstrap https://github.com/angieBadillo/stories-react-bootstrap 
+
 * Mouse tracking with Angular Material: https://angular-jtv8my.stackblitz.io/
 
 * Website for travel chatbot app : https://www.itnry.com
