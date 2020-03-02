@@ -12,6 +12,8 @@
 
 * Auto resizing Media Gallery : https://codepen.io/angiebadillo/pen/aamBxO
 
+* Robot animation CSS: https://codepen.io/angiebadillo/pen/WNvOzpb
+
 * Microservice architecture graph using D3Js : https://codepen.io/angiebadillo/pen/LjoJqE# . 
 
 * Website for pet owners: https://github.com/angieBadillo/PuppyPie
