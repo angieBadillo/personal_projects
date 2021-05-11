@@ -22,5 +22,7 @@
 
 * Diverse Projects built in Javascript with HTML, CSS, PHP: https://github.com/angieBadillo/college-projects
 
+* Roll dice histogram in JS https://codepen.io/angiebadillo/pen/abJOMqY
+
 
 
