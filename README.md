@@ -1,5 +1,7 @@
 # List of my personal projects
 
+* Roll dice histogram in JS https://codepen.io/angiebadillo/pen/abJOMqY
+
 * Lightweight responsive navBar with slide animation: https://codepen.io/angiebadillo/pen/vPJJbG
 
 * Stories design and dashboards using React and bootstrap https://github.com/angieBadillo/stories-react-bootstrap 
@@ -22,7 +24,7 @@
 
 * Diverse Projects built in Javascript with HTML, CSS, PHP: https://github.com/angieBadillo/college-projects
 
-* Roll dice histogram in JS https://codepen.io/angiebadillo/pen/abJOMqY
+
 
 
 
