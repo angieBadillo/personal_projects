@@ -1,4 +1,5 @@
 # List of my personal projects
+* Investment calculator (REACT) https://codesandbox.io/s/relaxed-darkness-27j23d?file=/src/util/investment.js:1198-1220
 
 * Roll dice histogram in JS https://codepen.io/angiebadillo/pen/abJOMqY
 
